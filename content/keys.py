@@ -1,0 +1,5 @@
+keys = [
+    "token",
+    "id",
+    "type",
+]
